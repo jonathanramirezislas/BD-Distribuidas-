@@ -1,0 +1,52 @@
+c:\users\jona\documents\visual studio 2015\Projects\BDDPROYECTO\BDDPROYECTO\bin\Debug\BDDPROYECTO.exe.config
+c:\users\jona\documents\visual studio 2015\Projects\BDDPROYECTO\BDDPROYECTO\bin\Debug\BDDPROYECTO.exe
+c:\users\jona\documents\visual studio 2015\Projects\BDDPROYECTO\BDDPROYECTO\bin\Debug\BDDPROYECTO.pdb
+c:\users\jona\documents\visual studio 2015\Projects\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.csprojResolveAssemblyReference.cache
+c:\users\jona\documents\visual studio 2015\Projects\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.Form1.resources
+c:\users\jona\documents\visual studio 2015\Projects\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.Properties.Resources.resources
+c:\users\jona\documents\visual studio 2015\Projects\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.csproj.GenerateResource.Cache
+c:\users\jona\documents\visual studio 2015\Projects\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.exe
+c:\users\jona\documents\visual studio 2015\Projects\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.pdb
+F:\BDDPROYECTO\BDDPROYECTO\bin\Debug\BDDPROYECTO.exe.config
+F:\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.exe
+F:\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.pdb
+F:\BDDPROYECTO\BDDPROYECTO\bin\Debug\BDDPROYECTO.exe
+F:\BDDPROYECTO\BDDPROYECTO\bin\Debug\BDDPROYECTO.pdb
+F:\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.csprojResolveAssemblyReference.cache
+F:\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.Properties.Resources.resources
+F:\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.csproj.GenerateResource.Cache
+E:\BDDPROYECTO\BDDPROYECTO\bin\Debug\BDDPROYECTO.exe.config
+E:\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.exe
+E:\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.pdb
+E:\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.csprojResolveAssemblyReference.cache
+E:\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.Form1.resources
+E:\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.Properties.Resources.resources
+E:\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.csproj.GenerateResource.Cache
+F:\BDDPROYECTO\BDDPROYECTO\obj\Debug\BDDPROYECTO.FormBBD.resources
+F:\BDDPROYECTO1.2\BDDPROYECTO\bin\Debug\BDDPROYECTO.exe.config
+F:\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.exe
+F:\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.pdb
+F:\BDDPROYECTO1.2\BDDPROYECTO\bin\Debug\BDDPROYECTO.exe
+F:\BDDPROYECTO1.2\BDDPROYECTO\bin\Debug\BDDPROYECTO.pdb
+F:\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.csprojResolveAssemblyReference.cache
+F:\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.FormBBD.resources
+F:\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.csproj.GenerateResource.Cache
+E:\BDDPROYECTO1.2\BDDPROYECTO\bin\Debug\BDDPROYECTO.exe.config
+E:\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.exe
+E:\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.pdb
+F:\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.Properties.Resources.resources
+E:\BDDPROYECTO1.2\BDDPROYECTO\bin\Debug\BDDPROYECTO.exe
+E:\BDDPROYECTO1.2\BDDPROYECTO\bin\Debug\BDDPROYECTO.pdb
+E:\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.csprojResolveAssemblyReference.cache
+E:\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.FormBBD.resources
+E:\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.Properties.Resources.resources
+E:\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.csproj.GenerateResource.Cache
+C:\Users\JONA\Desktop\BDDPROYECTO1.2\BDDPROYECTO\bin\Debug\BDDPROYECTO.exe.config
+C:\Users\JONA\Desktop\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.exe
+C:\Users\JONA\Desktop\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.pdb
+C:\Users\JONA\Desktop\BDDPROYECTO1.2\BDDPROYECTO\bin\Debug\BDDPROYECTO.exe
+C:\Users\JONA\Desktop\BDDPROYECTO1.2\BDDPROYECTO\bin\Debug\BDDPROYECTO.pdb
+C:\Users\JONA\Desktop\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.csprojResolveAssemblyReference.cache
+C:\Users\JONA\Desktop\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.FormBBD.resources
+C:\Users\JONA\Desktop\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.Properties.Resources.resources
+C:\Users\JONA\Desktop\BDDPROYECTO1.2\BDDPROYECTO\obj\Debug\BDDPROYECTO.csproj.GenerateResource.Cache
